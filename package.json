@@ -1,0 +1,22 @@
+{
+  "name": "skulpt-dist",
+  "version": "1.0.0",
+  "description": "A fork of Skulpt-dist that exports the minified javascript files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discodanne/skulpt-dist.git"
+  },
+  "keywords": [
+    "Skulpt"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/discodanne/skulpt-dist/issues"
+  },
+  "homepage": "https://github.com/discodanne/skulpt-dist#readme"
+}

@@ -1,3 +1,3 @@
-# Skulpt repository for bower 
+# Skulpt-Dist
 
-test change
+Export the dist as Sk, which makes it usable
